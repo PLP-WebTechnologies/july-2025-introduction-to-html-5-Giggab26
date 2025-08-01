@@ -1,8 +1,49 @@
-{
-	"folders": [
-		{
-			"path": "../../Documents/index.html"
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first web page</title>
+    </head>
+    <body>
+        <!-- semantic html -->
+    <!-- header -->
+        <HELLO!>Welcome to my New Web page</HELLO>
+        <! --Navigation bar -->
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact us</a></li>
+                <nav>
+            </header>
+            <!-- main content -->
+             <main>
+                <article>
+                    <h1>I AM A SOFTWARE ENGINEER! 👨‍💻👨‍💻</h1>
+                    <h2>Exploring the world of Technology </h2>
+                <article>
+                    <image>
+                        <img src ="c:\Users\jumam\OneDrive\Documents\Downloads\JUMA.jpg" alt="CEO JUMA" width="1200" height="1200">
+                    </image>
+                <section>
+                    <p>I am passionate about creating innovative solutions that make a difference in people's lives</p>
+                    <ul>
+                        <li>Web Development</li>
+                        <li>Mobile App Development</li>
+                        <li>Cloud Computing</li>
+                    </ul>
+                </section>
+                <aside>
+                    <h3>Related Topics</h3>
+                    <ul>
+                        <li>Artificial Intelligence</li>
+                        <li>Machine Learning</li>
+                        <li>Data Science</li>
+                    </ul>
+                    <main>
+                        <footer>
+                            <p>&copy; 2025. Juma  All rights reserved.</p>
+                            <p>Contact: <a href="https://wa.me/+254791644011">WhatsApp</a></p>
+                        </footer>
+                    </main>
+                </body>
+            </html>
